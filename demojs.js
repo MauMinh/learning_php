@@ -317,4 +317,3 @@ console.log("Tên trái cây có 3 ký tự trở xuống:", shortNames);
 let numbers = [10, 20, 30, 40];
 let total = numbers.reduce((sum, num) => sum + num, 0);
 console.log("Tổng các số trong mảng:", total);
-+
